@@ -1,0 +1,50 @@
+#header {
+	display: inline-block;
+	background-color: #eeeeec;
+	width: 100%;
+	height: 65px;
+	padding-bottom: 25px;
+
+}
+
+h2 {
+	display: inline-block;
+	width: 70%;
+	text-align:  right;
+	vertical-align: top;
+	
+}
+
+
+#menu {
+	border-top: 1px solid gray;
+
+}
+
+#menu ul{
+	margin: 0px;
+	width: 100%;
+	background-color: #eeeeec;
+	height: 60px;
+
+}
+
+#menu ul li{
+	display: inline-block;
+	padding: 5px;
+	margin: 0px -2px;
+	background-color: #eeeeec;
+	border-top: none;
+	border-right: 1px solid black;
+
+}
+
+#homelink {
+	border-left: 1px solid black;
+}
+
+.market {
+	border-left: 1px solid white;
+	
+}
+
