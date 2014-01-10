@@ -56,7 +56,7 @@ h2 {
 #main {
 	background-color: black;
 	color: white;
-	height: 500px;
+	height: 650px;
 	font-size: 13px;
 	padding: 15px;
 }
@@ -92,6 +92,7 @@ h3 {
 	margin-top: 0;
 	border-bottom: 1px solid black;
 	padding: 5px 10px;
+	margin-bottom: 0px;
 }
 
 body {
@@ -131,5 +132,28 @@ h4 {
 .bold {
 	font-weight: bold;
 }
+.boxes {
+	display: inline-block;
+	width: 220px;
+	margin: 0px 15px;
+	vertical-align: top;
+	background-color: white;
+	height: 265px;
+}
+.boxes p {
+	font-size: 11px;
+	color: black;
+	padding: 0px 10px;
+}
+.arrow {
+	text-align:right;
+	margin:white;
+}
 
+#mainbottom {
+	text-align: center;
+}
+#shortarrow {
+	margin-top: 25px;
+}
 
